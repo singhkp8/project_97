@@ -1,7 +1,6 @@
 import random
 
 Guess = random.randint(0,10)
-print(Guess)
 
 userGuess = int(input("Enter Your Guess :- \n"))
 
